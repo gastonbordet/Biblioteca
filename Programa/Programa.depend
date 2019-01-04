@@ -1,0 +1,581 @@
+# depslib dependency file v1.0
+1531706291 source:c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	"menues.h"
+	"sistemaMisLibros.h"
+	"sistemaAutores.h"
+	"sistemaGeneros.h"
+	"sistemaBibliotecas.h"
+	"sistemaReportes.h"
+	"sistemaConfiguracion.h"
+
+1530798568 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\menues.h
+
+1529334812 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\clasefecha.h
+
+1530300744 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\claselibro.h
+	"claseUsuario.h"
+
+1529623226 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\clasebiblioteca.h
+
+1530308164 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\clasegenero.h
+
+1530284694 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\claseautor.h
+
+1531705946 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\funcionesmislibros.h
+	"claseFecha.h"
+	"claseLibro.h"
+	"clasePrestado.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+
+1530471036 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\otrasfunciones.h
+	"funcionesBibliotecas.h"
+
+1531956453 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\funcionesbibliotecas.h
+	"claseUsuario.h"
+	"claseBiblioteca.h"
+	"claseLibroPorBiblioteca.h"
+	"funcionesMisLibros.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+
+1530798250 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\funcionesreportes.h
+	"validaciones.h"
+
+1529622502 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\claseusuario.h
+
+1530722562 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\claselibroporbiblioteca.h
+
+1529590876 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\claseprestado.h
+
+1530723194 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\validaciones.h
+	"claseAutor.h"
+	"claseGenero.h"
+
+1530722208 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\funcionesbibliotecas2.h
+	"validaciones.h"
+
+1529859580 source:c:\users\administrador\desktop\programa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	"menues.h"
+	"claseFecha.h"
+	"claseUsuario.h"
+	"claseLibro.h"
+	"claseBiblioteca.h"
+	"claseGenero.h"
+	"claseAutor.h"
+	"claseLibroPorBiblioteca.h"
+	"clasePrestado.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+	"funcionesMisLibros.h"
+	"funcionesBibliotecas.h"
+	"funcionesBibliotecas2.h"
+	"otrasFunciones.h"
+	"funcionesReportes.h"
+
+1529624660 c:\users\administrador\desktop\programa\menues.h
+
+1529334812 c:\users\administrador\desktop\programa\clasefecha.h
+
+1529622502 c:\users\administrador\desktop\programa\claseusuario.h
+
+1529588888 c:\users\administrador\desktop\programa\claselibro.h
+
+1529623226 c:\users\administrador\desktop\programa\clasebiblioteca.h
+
+1529346928 c:\users\administrador\desktop\programa\clasegenero.h
+
+1529340944 c:\users\administrador\desktop\programa\claseautor.h
+
+1529622658 c:\users\administrador\desktop\programa\claselibroporbiblioteca.h
+
+1529590876 c:\users\administrador\desktop\programa\claseprestado.h
+
+1529772402 c:\users\administrador\desktop\programa\otrasfunciones.h
+	"funcionesBibliotecas.h"
+
+1529691654 c:\users\administrador\desktop\programa\funcionesbibliotecas.h
+	"claseUsuario.h"
+	"claseBiblioteca.h"
+	"funcionesMisLibros.h"
+
+1530187332 c:\users\administrador\desktop\programa\funcionesmislibros.h
+	"otrasFunciones.h"
+	"validaciones.h"
+
+1529691522 c:\users\administrador\desktop\programa\validaciones.h
+
+1529776340 c:\users\administrador\desktop\programa\funcionesbibliotecas2.h
+	"validaciones.h"
+
+1529859550 c:\users\administrador\desktop\programa\funcionesreportes.h
+
+1531705824 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\funcionesautores.h
+	"funcionesGeneros.h"
+	"claseAutor.h"
+	"validaciones.h"
+
+1531705773 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\funcionesgeneros.h
+	"claseGenero.h"
+	"validaciones.h"
+
+1531783638 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\sistemamislibros.h
+	"funcionesMisLibros.h"
+
+1531783613 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\sistemaautores.h
+	"funcionesAutores.h"
+
+1531783658 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\sistemageneros.h
+	"funcionesGeneros.h"
+
+1531955976 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\sistemabibliotecas.h
+	"funcionesBibliotecas.h"
+	"funcionesBibliotecas2.h"
+
+1530300488 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\sistemareportes.h
+	"funcionesReportes.h"
+
+1530307138 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\sistemaconfiguracion.h
+	"funcionesConfiguracion.h"
+
+1531957415 c:\users\gaston\documents\utn\laboratorio de computacion ii\trabajopractico2(biblioteca)\programa\funcionesconfiguracion.h
+	"claseAutor.h"
+	"claseBiblioteca.h"
+	"claseFecha.h"
+	"claseGenero.h"
+	"claseLibro.h"
+	"claseLibroPorBiblioteca.h"
+	"clasePrestado.h"
+	"claseUsuario.h"
+	"validaciones.h"
+
+1530472488 source:d:\trabajopractico2(biblioteca)\programa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	"menues.h"
+	"sistemaMisLibros.h"
+	"sistemaAutores.h"
+	"sistemaGeneros.h"
+	"sistemaBibliotecas.h"
+	"sistemaReportes.h"
+	"sistemaConfiguracion.h"
+
+1530798442 d:\trabajopractico2(biblioteca)\programa\menues.h
+
+1530797966 d:\trabajopractico2(biblioteca)\programa\sistemamislibros.h
+	"funcionesMisLibros.h"
+
+1530798196 d:\trabajopractico2(biblioteca)\programa\funcionesmislibros.h
+	"claseFecha.h"
+	"claseLibro.h"
+	"clasePrestado.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+
+1529334812 d:\trabajopractico2(biblioteca)\programa\clasefecha.h
+
+1530300744 d:\trabajopractico2(biblioteca)\programa\claselibro.h
+	"claseUsuario.h"
+
+1529622502 d:\trabajopractico2(biblioteca)\programa\claseusuario.h
+
+1529590876 d:\trabajopractico2(biblioteca)\programa\claseprestado.h
+
+1530471036 d:\trabajopractico2(biblioteca)\programa\otrasfunciones.h
+	"funcionesBibliotecas.h"
+
+1530798184 d:\trabajopractico2(biblioteca)\programa\funcionesbibliotecas.h
+	"claseUsuario.h"
+	"claseBiblioteca.h"
+	"claseLibroPorBiblioteca.h"
+	"funcionesMisLibros.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+
+1529623226 d:\trabajopractico2(biblioteca)\programa\clasebiblioteca.h
+
+1530722562 d:\trabajopractico2(biblioteca)\programa\claselibroporbiblioteca.h
+
+1530723194 d:\trabajopractico2(biblioteca)\programa\validaciones.h
+	"claseAutor.h"
+	"claseGenero.h"
+
+1530284694 d:\trabajopractico2(biblioteca)\programa\claseautor.h
+
+1530308164 d:\trabajopractico2(biblioteca)\programa\clasegenero.h
+
+1530798128 d:\trabajopractico2(biblioteca)\programa\funcionesautores.h
+	"funcionesGeneros.h"
+	"claseAutor.h"
+	"validaciones.h"
+
+1530389140 d:\trabajopractico2(biblioteca)\programa\funcionesgeneros.h
+	"claseGenero.h"
+	"validaciones.h"
+
+1530307834 d:\trabajopractico2(biblioteca)\programa\sistemaautores.h
+	"funcionesAutores.h"
+
+1530307992 d:\trabajopractico2(biblioteca)\programa\sistemageneros.h
+	"funcionesGeneros.h"
+
+1530798222 d:\trabajopractico2(biblioteca)\programa\sistemabibliotecas.h
+	"funcionesBibliotecas.h"
+	"funcionesBibliotecas2.h"
+
+1530722208 d:\trabajopractico2(biblioteca)\programa\funcionesbibliotecas2.h
+	"validaciones.h"
+
+1530300488 d:\trabajopractico2(biblioteca)\programa\sistemareportes.h
+	"funcionesReportes.h"
+
+1530798250 d:\trabajopractico2(biblioteca)\programa\funcionesreportes.h
+	"validaciones.h"
+
+1530307138 d:\trabajopractico2(biblioteca)\programa\sistemaconfiguracion.h
+	"funcionesConfiguracion.h"
+
+1530309110 d:\trabajopractico2(biblioteca)\programa\funcionesconfiguracion.h
+	"claseAutor.h"
+	"claseBiblioteca.h"
+	"claseFecha.h"
+	"claseGenero.h"
+	"claseLibro.h"
+	"claseLibroPorBiblioteca.h"
+	"clasePrestado.h"
+	"claseUsuario.h"
+	"validaciones.h"
+
+1532003060 source:c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	"menues.h"
+	"sistemaMisLibros.h"
+	"sistemaAutores.h"
+	"sistemaGeneros.h"
+	"sistemaBibliotecas.h"
+	"sistemaReportes.h"
+	"sistemaConfiguracion.h"
+
+1530798568 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\menues.h
+
+1531783640 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\sistemamislibros.h
+	"funcionesMisLibros.h"
+
+1531705948 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\funcionesmislibros.h
+	"claseFecha.h"
+	"claseLibro.h"
+	"clasePrestado.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+
+1529334812 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\clasefecha.h
+
+1530300744 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\claselibro.h
+	"claseUsuario.h"
+
+1529622502 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\claseusuario.h
+
+1529590876 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\claseprestado.h
+
+1532003175 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\otrasfunciones.h
+	"funcionesBibliotecas.h"
+
+1532002843 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\funcionesbibliotecas.h
+	"claseUsuario.h"
+	"claseBiblioteca.h"
+	"claseLibroPorBiblioteca.h"
+	"funcionesMisLibros.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+
+1529623226 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\clasebiblioteca.h
+
+1530722562 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\claselibroporbiblioteca.h
+
+1531705826 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\funcionesautores.h
+	"funcionesGeneros.h"
+	"claseAutor.h"
+	"validaciones.h"
+
+1531705774 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\funcionesgeneros.h
+	"claseGenero.h"
+	"validaciones.h"
+
+1530308164 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\clasegenero.h
+
+1530723194 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\validaciones.h
+	"claseAutor.h"
+	"claseGenero.h"
+
+1530284694 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\claseautor.h
+
+1531783614 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\sistemaautores.h
+	"funcionesAutores.h"
+
+1531783660 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\sistemageneros.h
+	"funcionesGeneros.h"
+
+1531999719 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\sistemabibliotecas.h
+	"funcionesBibliotecas.h"
+	"funcionesBibliotecas2.h"
+
+1530722208 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\funcionesbibliotecas2.h
+	"validaciones.h"
+
+1530300488 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\sistemareportes.h
+	"funcionesReportes.h"
+
+1530798250 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\funcionesreportes.h
+	"validaciones.h"
+
+1530307138 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\sistemaconfiguracion.h
+	"funcionesConfiguracion.h"
+
+1531957416 c:\users\administrador\desktop\trabajopractico2(biblioteca)\programa\funcionesconfiguracion.h
+	"claseAutor.h"
+	"claseBiblioteca.h"
+	"claseFecha.h"
+	"claseGenero.h"
+	"claseLibro.h"
+	"claseLibroPorBiblioteca.h"
+	"clasePrestado.h"
+	"claseUsuario.h"
+	"validaciones.h"
+
+1532527749 source:c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	"menues.h"
+	"sistemaMisLibros.h"
+	"sistemaAutores.h"
+	"sistemaGeneros.h"
+	"sistemaBibliotecas.h"
+	"sistemaReportes.h"
+	"sistemaConfiguracion.h"
+
+1532531141 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\menues.h
+
+1531783640 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\sistemamislibros.h
+	"funcionesMisLibros.h"
+
+1532532543 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\funcionesmislibros.h
+	"claseFecha.h"
+	"claseLibro.h"
+	"clasePrestado.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+
+1529334812 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\clasefecha.h
+
+1530300744 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\claselibro.h
+	"claseUsuario.h"
+
+1529622502 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\claseusuario.h
+
+1529590876 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\claseprestado.h
+
+1532003176 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\otrasfunciones.h
+	"funcionesBibliotecas.h"
+
+1532532581 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\funcionesbibliotecas.h
+	"claseUsuario.h"
+	"claseBiblioteca.h"
+	"claseLibroPorBiblioteca.h"
+	"funcionesMisLibros.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+
+1529623226 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\clasebiblioteca.h
+
+1530722562 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\claselibroporbiblioteca.h
+
+1532532605 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\funcionesautores.h
+	"funcionesGeneros.h"
+	"claseAutor.h"
+	"validaciones.h"
+
+1532532556 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\funcionesgeneros.h
+	"claseGenero.h"
+	"validaciones.h"
+
+1530308164 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\clasegenero.h
+
+1530723194 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\validaciones.h
+	"claseAutor.h"
+	"claseGenero.h"
+
+1530284694 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\claseautor.h
+
+1531783614 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\sistemaautores.h
+	"funcionesAutores.h"
+
+1531783660 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\sistemageneros.h
+	"funcionesGeneros.h"
+
+1531999720 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\sistemabibliotecas.h
+	"funcionesBibliotecas.h"
+	"funcionesBibliotecas2.h"
+
+1530722208 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\funcionesbibliotecas2.h
+	"validaciones.h"
+
+1530300488 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\sistemareportes.h
+	"funcionesReportes.h"
+
+1530798250 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\funcionesreportes.h
+	"validaciones.h"
+
+1530307138 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\sistemaconfiguracion.h
+	"funcionesConfiguracion.h"
+
+1531957416 c:\users\gaston\desktop\trabajopractico2(biblioteca)\programa\funcionesconfiguracion.h
+	"claseAutor.h"
+	"claseBiblioteca.h"
+	"claseFecha.h"
+	"claseGenero.h"
+	"claseLibro.h"
+	"claseLibroPorBiblioteca.h"
+	"clasePrestado.h"
+	"claseUsuario.h"
+	"validaciones.h"
+
+1532532914 source:e:\trabajopractico2(biblioteca)\programa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	"menues.h"
+	"sistemaMisLibros.h"
+	"sistemaAutores.h"
+	"sistemaGeneros.h"
+	"sistemaBibliotecas.h"
+	"sistemaReportes.h"
+	"sistemaConfiguracion.h"
+
+1532531142 e:\trabajopractico2(biblioteca)\programa\menues.h
+
+1531783640 e:\trabajopractico2(biblioteca)\programa\sistemamislibros.h
+	"funcionesMisLibros.h"
+
+1532535760 e:\trabajopractico2(biblioteca)\programa\funcionesmislibros.h
+	"claseFecha.h"
+	"claseLibro.h"
+	"clasePrestado.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+
+1529334812 e:\trabajopractico2(biblioteca)\programa\clasefecha.h
+
+1530300744 e:\trabajopractico2(biblioteca)\programa\claselibro.h
+	"claseUsuario.h"
+
+1529622502 e:\trabajopractico2(biblioteca)\programa\claseusuario.h
+
+1529590876 e:\trabajopractico2(biblioteca)\programa\claseprestado.h
+
+1532003176 e:\trabajopractico2(biblioteca)\programa\otrasfunciones.h
+	"funcionesBibliotecas.h"
+
+1532536124 e:\trabajopractico2(biblioteca)\programa\funcionesbibliotecas.h
+	"claseUsuario.h"
+	"claseBiblioteca.h"
+	"claseLibroPorBiblioteca.h"
+	"funcionesMisLibros.h"
+	"funcionesAutores.h"
+	"funcionesGeneros.h"
+	"otrasFunciones.h"
+	"validaciones.h"
+
+1529623226 e:\trabajopractico2(biblioteca)\programa\clasebiblioteca.h
+
+1530722562 e:\trabajopractico2(biblioteca)\programa\claselibroporbiblioteca.h
+
+1532535742 e:\trabajopractico2(biblioteca)\programa\funcionesautores.h
+	"funcionesGeneros.h"
+	"claseAutor.h"
+	"validaciones.h"
+
+1532535710 e:\trabajopractico2(biblioteca)\programa\funcionesgeneros.h
+	"claseGenero.h"
+	"validaciones.h"
+
+1530308164 e:\trabajopractico2(biblioteca)\programa\clasegenero.h
+
+1530723194 e:\trabajopractico2(biblioteca)\programa\validaciones.h
+	"claseAutor.h"
+	"claseGenero.h"
+
+1530284694 e:\trabajopractico2(biblioteca)\programa\claseautor.h
+
+1531783614 e:\trabajopractico2(biblioteca)\programa\sistemaautores.h
+	"funcionesAutores.h"
+
+1531783660 e:\trabajopractico2(biblioteca)\programa\sistemageneros.h
+	"funcionesGeneros.h"
+
+1531999720 e:\trabajopractico2(biblioteca)\programa\sistemabibliotecas.h
+	"funcionesBibliotecas.h"
+	"funcionesBibliotecas2.h"
+
+1530722208 e:\trabajopractico2(biblioteca)\programa\funcionesbibliotecas2.h
+	"validaciones.h"
+
+1530300488 e:\trabajopractico2(biblioteca)\programa\sistemareportes.h
+	"funcionesReportes.h"
+
+1530798250 e:\trabajopractico2(biblioteca)\programa\funcionesreportes.h
+	"validaciones.h"
+
+1530307138 e:\trabajopractico2(biblioteca)\programa\sistemaconfiguracion.h
+	"funcionesConfiguracion.h"
+
+1531957416 e:\trabajopractico2(biblioteca)\programa\funcionesconfiguracion.h
+	"claseAutor.h"
+	"claseBiblioteca.h"
+	"claseFecha.h"
+	"claseGenero.h"
+	"claseLibro.h"
+	"claseLibroPorBiblioteca.h"
+	"clasePrestado.h"
+	"claseUsuario.h"
+	"validaciones.h"
+
